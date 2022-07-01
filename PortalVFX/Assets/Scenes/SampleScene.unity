@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 369b9ebe3a62b904dbc19bd332b44086, type: 2}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.00080954505, g: 0.004162026, b: 0.020064274, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -510,16 +510,16 @@ VisualEffect:
       m_Array: []
     m_Vector4f:
       m_Array:
-      - m_Value: {x: 4.4639363, y: 3.6747317, z: 15.335498, w: 1}
+      - m_Value: {x: 15.335499, y: 3.693366, z: 5.211619, w: 1}
         m_Name: ParticlesColor
         m_Overridden: 1
-      - m_Value: {x: 5.4960713, y: 2.7832892, z: 9.105823, w: 0}
+      - m_Value: {x: 14.237105, y: 0.72528535, z: 1.0069383, w: 1}
         m_Name: Portal Color
         m_Overridden: 1
-      - m_Value: {x: 1.5575951, y: 0.5397812, z: 3.9733913, w: 1}
+      - m_Value: {x: 5.656854, y: 0.5550671, z: 0.50164527, w: 1}
         m_Name: CircleColor
         m_Overridden: 1
-      - m_Value: {x: 0.71157813, y: 0.3667671, z: 2.6998146, w: 1}
+      - m_Value: {x: 21.598516, y: 2.9401116, z: 9.887457, w: 1}
         m_Name: ImpactCircle
         m_Overridden: 1
     m_Uint:
